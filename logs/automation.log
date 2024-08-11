@@ -1,0 +1,6 @@
+17:18:58.487 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\MyProjects\AutomationExercise\tc_001.xml"
+17:18:59.058 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\MyProjects\AutomationExercise\tc_001.xml
+
+17:19:09.749 [main] INFO  testCases.TC_001_LoginTest - Staring TC_001_LoginTest
+17:19:21.341 [main] INFO  testCases.TC_001_LoginTest - LoginTest Passed
