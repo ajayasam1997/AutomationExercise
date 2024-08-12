@@ -22,3 +22,13 @@
 10:45:07.828 [main] INFO  testCases.TC_002_AddingProductToCart - add to cart successfull
 10:45:12.750 [main] INFO  testCases.TC_002_AddingProductToCart - clicked on checkout successful
 10:45:12.880 [main] INFO  testCases.TC_002_AddingProductToCart - order placed Unsuccesfull
+20:26:21.059 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\Projects\AutomationExercise\tc_002.xml"
+20:26:21.679 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\Projects\AutomationExercise\tc_002.xml
+
+20:26:32.338 [main] INFO  testCases.TC_002_AddingProductToCart - Staring TC_002_AddingProductToCart
+20:26:40.826 [main] INFO  testCases.TC_002_AddingProductToCart - User SuccessFully LoggedIn
+20:26:46.611 [main] INFO  testCases.TC_002_AddingProductToCart - entered the product quantity
+20:26:46.844 [main] INFO  testCases.TC_002_AddingProductToCart - add to cart successfull
+20:26:51.492 [main] INFO  testCases.TC_002_AddingProductToCart - clicked on checkout successful
+20:26:54.227 [main] INFO  testCases.TC_002_AddingProductToCart - logout done
