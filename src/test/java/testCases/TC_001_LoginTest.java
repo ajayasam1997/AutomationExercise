@@ -8,9 +8,8 @@ import pageObjects.LoggedInHomePage;
 import pageObjects.LoginPage;
 import testBase.BaseClass;
 
-
 public class TC_001_LoginTest extends BaseClass {
-@Test(groups= {"sanity", "regression", "master"})
+	@Test(groups = { "sanity", "regression", "master" })
 	public void loginTest() {
 
 		try {
@@ -23,19 +22,19 @@ public class TC_001_LoginTest extends BaseClass {
 			lp.emailAddressTextBox(p.getProperty("emailId"));
 			lp.passwordTextBox(p.getProperty("password"));
 			lp.loginButton();
-			
-			String expectedResult=lhp.checkLoginSuccessOrFailure();
-			if(expectedResult.contains("Ajay")) {
+
+			String expectedResult = lhp.checkLoginSuccessOrFailure();
+			if (expectedResult.contains("Ajay")) {
 				logger.info("LoginTest Passed");
 				Assert.assertTrue(true);
+			} else {
+				logger.info("Login Test failed ");
+
+				Assert.fail();
 			}
-			else {logger.info("Login Test failed ");
-			
-			Assert.fail();}
-			
-			
+
 		} catch (Exception e) {
-			
+
 			Assert.fail();
 		}
 	}

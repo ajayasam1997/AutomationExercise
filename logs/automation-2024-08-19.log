@@ -1,0 +1,54 @@
+10:41:27.203 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\MyProjects\AutomationExercise\tc_002.xml"
+10:41:28.433 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\MyProjects\AutomationExercise\tc_002.xml
+
+10:42:43.321 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\MyProjects\AutomationExercise\tc_002.xml"
+10:42:43.963 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\MyProjects\AutomationExercise\tc_002.xml
+
+10:43:01.517 [main] INFO  testCases.TC_002_AddingProductToCart - Staring TC_002_AddingProductToCart
+10:43:08.625 [main] INFO  testCases.TC_002_AddingProductToCart - User SuccessFully LoggedIn
+10:43:13.556 [main] INFO  testCases.TC_002_AddingProductToCart - entered the product quantity
+10:43:13.738 [main] INFO  testCases.TC_002_AddingProductToCart - add to cart successfull
+10:43:17.786 [main] INFO  testCases.TC_002_AddingProductToCart - clicked on checkout successful
+10:43:20.265 [main] INFO  testCases.TC_002_AddingProductToCart - logout done
+10:44:42.105 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\MyProjects\AutomationExercise\tc_002.xml"
+10:44:43.022 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\MyProjects\AutomationExercise\tc_002.xml
+
+10:44:55.020 [main] INFO  testCases.TC_002_AddingProductToCart - Staring TC_002_AddingProductToCart
+10:45:02.621 [main] INFO  testCases.TC_002_AddingProductToCart - User SuccessFully LoggedIn
+10:45:07.638 [main] INFO  testCases.TC_002_AddingProductToCart - entered the product quantity
+10:45:07.828 [main] INFO  testCases.TC_002_AddingProductToCart - add to cart successfull
+10:45:12.750 [main] INFO  testCases.TC_002_AddingProductToCart - clicked on checkout successful
+10:45:12.880 [main] INFO  testCases.TC_002_AddingProductToCart - order placed Unsuccesfull
+20:26:21.059 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\Desktop\Projects\AutomationExercise\tc_002.xml"
+20:26:21.679 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\Desktop\Projects\AutomationExercise\tc_002.xml
+
+20:26:32.338 [main] INFO  testCases.TC_002_AddingProductToCart - Staring TC_002_AddingProductToCart
+20:26:40.826 [main] INFO  testCases.TC_002_AddingProductToCart - User SuccessFully LoggedIn
+20:26:46.611 [main] INFO  testCases.TC_002_AddingProductToCart - entered the product quantity
+20:26:46.844 [main] INFO  testCases.TC_002_AddingProductToCart - add to cart successfull
+20:26:51.492 [main] INFO  testCases.TC_002_AddingProductToCart - clicked on checkout successful
+20:26:54.227 [main] INFO  testCases.TC_002_AddingProductToCart - logout done
+10:52:07.113 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\AppData\Local\Temp\testng-eclipse-29362704\testng-customsuite.xml"
+10:52:07.577 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+10:52:07.585 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+10:52:07.588 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:52:07.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:52:07.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:52:07.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:52:07.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:52:07.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:52:07.605 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+10:52:07.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+10:52:07.629 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:52:07.630 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:52:07.633 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:52:07.634 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:52:07.635 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:52:07.635 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:52:07.639 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:52:07.639 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:52:07.640 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
